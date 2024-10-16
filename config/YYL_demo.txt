@@ -1,60 +1,32 @@
-🎥NEWTV频道,#genre#
-NEWTV超级电视剧
-NEWTV超级电影
-NEWTV海外剧场
-NEWTV动作电影
-NEWTV惊悚悬疑
-NEWTV黑莓电影
-Thrill电影
-
-🎥iHOT频道,#genre#
-iHOT 爱动漫
-iHOT 爱喜剧
-iHOT 爱怀旧
-iHOT 爱悬疑
-iHOT 爱浪漫
-iHOT 爱电竞
-iHOT 爱青春
-
-🎥SiTV频道,#genre#
-SiTV 动漫秀场
-SiTV 欢笑剧场
-SiTV 欢笑剧场-4K
-SiTV 法治天地
-SiTV 游戏风云
-SiTV 生活时尚
-SiTV 都市剧场
-
-🎮游戏频道,#genre#
-游戏风云
-游戏竞技
-电竞游戏
-海看电竞
-电竞天堂
-爱电竞
-
-🎵音乐频道,#genre#
-芒果TV
-风云音乐
-音乐现场
-音乐之声
-潮流音乐
-
-📺综合频道,#genre#
-IPTV谍战剧场
-IPTV相声小品
-IPTV3
-IPTV5
-IPTV6
-IPTV8
-IPTV野外
-欢乐剧场
-超级综艺
-金牌综艺
-潮妈辣婆
-纪实人文
-纪实科教
-热播剧场
-城市剧场
+📺影视频道,#genre#
+淘剧场
+淘娱乐
+淘电影
+星影
+光影
+CHC家庭影院
+CHC动作电影
+CHC影迷电影
+CHC电影
+CAT电影
+AMC电影
+超级电影
+超级视剧
+东北热剧
+海外剧场
+中国功夫
+家庭剧场
+精品大剧
+都市剧场
+武侠剧场
 军旅剧场
-音乐现场
+惊悚悬疑
+纬来电影
+靖天映画
+星卫娱乐
+IPTV经典电影
+天映经典
+无线星河
+星空卫视
+私人影院
+龙祥电影
