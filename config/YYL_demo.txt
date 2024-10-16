@@ -1,10 +1,60 @@
+🎥NEWTV频道,#genre#
+NEWTV超级电视剧
+NEWTV超级电影
+NEWTV海外剧场
+NEWTV动作电影
+NEWTV惊悚悬疑
+NEWTV黑莓电影
+Thrill电影
 
-🔰各地方频道,#genre#
-北京冬奥纪实
-风云足球频道
-中国交通频道
-先锋乒羽
+🎥iHOT频道,#genre#
+iHOT 爱动漫
+iHOT 爱喜剧
+iHOT 爱怀旧
+iHOT 爱悬疑
+iHOT 爱浪漫
+iHOT 爱电竞
+iHOT 爱青春
 
+🎥SiTV频道,#genre#
+SiTV 动漫秀场
+SiTV 欢笑剧场
+SiTV 欢笑剧场-4K
+SiTV 法治天地
+SiTV 游戏风云
+SiTV 生活时尚
+SiTV 都市剧场
 
+🎮游戏频道,#genre#
+游戏风云
+游戏竞技
+电竞游戏
+海看电竞
+电竞天堂
+爱电竞
 
+🎵音乐频道,#genre#
+芒果TV
+风云音乐
+音乐现场
+音乐之声
+潮流音乐
 
+📺综合频道,#genre#
+IPTV谍战剧场
+IPTV相声小品
+IPTV3
+IPTV5
+IPTV6
+IPTV8
+IPTV野外
+欢乐剧场
+超级综艺
+金牌综艺
+潮妈辣婆
+纪实人文
+纪实科教
+热播剧场
+城市剧场
+军旅剧场
+音乐现场
