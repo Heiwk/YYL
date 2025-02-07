@@ -2,3 +2,4 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+http://192.168.31.33:8028/Sub?type=txt
