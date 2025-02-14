@@ -21,7 +21,6 @@ https://raw.kkgithub.com/wwb521/live/refs/heads/main/ipv4.txt
 https://raw.kkgithub.com/wwb521/live/refs/heads/main/ipv6.txt
 https://9239.kstore.space/jisuTV2.txt
 https://live.iptv365.org/live.txt
-http://175.178.251.183:6689/live.txt
 https://tv.wqwqwq.sbs/iptv.m3u
 https://iptv-org.github.io/iptv/index.m3u
 https://gitee.com/qqyywb/tv/raw/master/TV.json
@@ -32,8 +31,6 @@ http://117.72.68.25:9230/latest.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 http://ww.zouming.com/ipv6.txt
 https://raw.kkgithub.com/wwb521/live/refs/heads/main/tv.txt
-https://raw.kkgithub.com/wwb521/live/refs/heads/main/ipv4.txt
 https://www.254950134.xyz/final_streams.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-
