@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://github.com/benben-hello/iptv/raw/master/output/ipv4/result.txt
 https://9239.kstore.space/jisuTV2.txt
 https://live.iptv365.org/live.txt
 http://175.178.251.183:6689/live.txt
