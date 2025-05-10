@@ -12,6 +12,12 @@ https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # 私人节目单
+https://github.com/alenin-zhang/IPTV/raw/main/lenin.txt
+https://github.com/alenin-zhang/IPTV/raw/main/lenin.txt
+https://github.com/250992941/iptv/raw/main/st1.txt
+https://github.com/250992941/iptv/raw/main/st2.txt
+https://github.com/250992941/iptv/raw/main/收集源.txt
+https://ghfast.top/https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt
 https://github.com/zht298/yingshi/raw/74980757585d89547240481350240284f06d6d8d/output/user_result.txt
 # 拾光｜影仓0312
 https://4708.kstore.space/svip/ITV.txt
