@@ -207,8 +207,8 @@ CCTV4K,http://58.46.210.223:4022/udp/239.76.254.64:9000
 风云剧场,http://175.22.226.131:888/hls/95/index.m3u8
 风云剧场,http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
 风云剧场,http://113.101.119.50:808/hls/534/index.m3u8
-风云剧场,http://219.141.45.25:8188/udp/238.255.2.28:5999
 风云剧场,http://116.23.98.153:7188/udp/239.253.43.16:5146
+风云剧场,http://219.141.45.25:8188/udp/238.255.2.28:5999
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 风云音乐,http://175.22.226.131:888/hls/87/index.m3u8
 风云音乐,http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
@@ -233,11 +233,12 @@ CCTV4K,http://58.46.210.223:4022/udp/239.76.254.64:9000
 央视台球,http://175.22.226.131:888/hls/86/index.m3u8
 央视台球,http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
 央视台球,http://113.101.119.50:808/hls/531/index.m3u8
+央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
 央视台球,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-央视台球,http://219.141.45.25:8188/udp/238.255.2.224:5999
 高尔夫网球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 高尔夫网球,http://175.22.226.131:888/hls/97/index.m3u8
 高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+高尔夫网球,http://[2409:8087:74d4:21::36]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
 怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
 怀旧剧场,http://183.11.239.36:808/hls/92/index.m3u8
 怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
@@ -256,8 +257,8 @@ CCTV4K,http://58.46.210.223:4022/udp/239.76.254.64:9000
 女性时尚,http://175.22.226.131:888/hls/81/index.m3u8
 女性时尚,http://ott.mobaibox.com/PLTV/3/224/3221228674/index.m3u8
 女性时尚,http://219.141.45.25:8188/udp/238.255.2.27:5999
-女性时尚,http://116.23.98.153:7188/udp/239.253.43.8:5146
 女性时尚,http://220.169.100.41:10087/udp/239.76.254.55:9000
+女性时尚,http://116.23.98.153:7188/udp/239.253.43.8:5146
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 世界地理,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 世界地理,http://183.11.239.36:808/hls/11/index.m3u8
@@ -265,17 +266,16 @@ CCTV4K,http://58.46.210.223:4022/udp/239.76.254.64:9000
 世界地理,http://175.22.226.131:888/hls/84/index.m3u8
 世界地理,http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
 世界地理,http://113.101.119.50:808/hls/532/index.m3u8
-世界地理,http://219.141.45.25:8188/udp/238.255.2.26:5999
-世界地理,http://116.23.98.153:7188/udp/239.253.43.7:5146
 世界地理,http://58.46.210.223:4022/udp/239.76.254.57:9000
+世界地理,http://219.141.45.25:8188/udp/238.255.2.26:5999
 文化精品,http://dassby.qqff.top:99/live/文化精品/index.m3u8
 文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 文化精品,http://175.22.226.131:888/hls/89/index.m3u8
 文化精品,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
-文化精品,http://219.141.45.25:8188/udp/238.255.2.32:5999
 文化精品,http://116.23.98.153:7188/udp/239.253.43.13:5146
 文化精品,http://58.46.210.223:4022/udp/239.76.254.56:9000
 文化精品,http://58.46.179.245:4022/udp/239.76.254.56:9000
+文化精品,http://219.141.45.25:8188/udp/238.255.2.32:5999
 百姓健康,http://www.lizhinas.top:1009/udp/239.252.219.146:5140
 百姓健康,http://171.213.131.63:8188/udp/239.93.42.35:5140
 中学生,http://183.11.239.36:808/hls/24/index.m3u8
@@ -691,6 +691,7 @@ CGTN英语,http://58.46.210.223:4022/udp/239.76.252.66:9000
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 农林卫视,http://112.46.105.20:8009/hls/27/index.m3u8
 农林卫视,http://112.46.85.60:8009/hls/27/index.m3u8
+农林卫视,http://[2409:8087:74d4:21::36]/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
 三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
 三沙卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -713,8 +714,8 @@ CGTN英语,http://58.46.210.223:4022/udp/239.76.252.66:9000
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 
 ☘️山东专属频道,#genre#
-临沂公共,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+临沂公共,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 山东新闻,http://live.xmcdn.com/live/1440/64.m3u8
@@ -723,9 +724,13 @@ CGTN英语,http://58.46.210.223:4022/udp/239.76.252.66:9000
 山东教育,http://219.141.45.25:8188/udp/238.255.2.79:5999
 山东生活,http://live.xmcdn.com/live/802/64.m3u8
 山东体育,http://live.xmcdn.com/live/805/64.m3u8
+山东文旅,http://139.129.231.228:50060/rtp/239.21.1.176:5002
+山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
-JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 JJ斗地主,http://111.20.21.163/live/488743rAHScWyyII_2000.flv?302_type=cold_aggr&_session_id=1343553445.n.cn-z9w724.mt5f_1421068&cac=1&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv1a%2F488743rAHScWyyII_2000.flv%3FwsAuth%3Dfd695c444eeee99cc6122ed396c805ba%26token%3Dcpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901%26logo%3D0%26expire%3D0%26did%3Dd010b07dcb997ada9934081c873542f0%26origin%3Dtct%26vhost%3Dplay2&logo=0&manage_ip=&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-z9w724.mt5f.nss&redirect_from_ip=183.201.192.138&redirect_to=fc.cn-h58z42&redirect_to_ip=111.20.21.163&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&vhost=tc-tct.douyucdn2.cn&wsAuth=fd695c444eeee99cc6122ed396c805ba
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 🏀咪咕频道,#genre#
 赛事咪咕1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -877,10 +882,11 @@ JJ斗地主,http://111.20.21.163/live/488743rAHScWyyII_2000.flv?302_type=cold_ag
 劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
 劲爆体育,http://119.32.12.17:2901/udp/224.1.100.129:11111
 纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8#rtmp://f13h.mine.nu:1935/sat/tv721
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 超级体育,http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://39.134.64.179:6610/PLTV/88888888/224/3221225715/index.m3u8?IASHttpSessionId=OTT3134320250320172558060494
@@ -918,13 +924,14 @@ JJ斗地主,http://111.20.21.163/live/488743rAHScWyyII_2000.flv?302_type=cold_ag
 精品体育,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 魅力足球,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
-四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 四海钓鱼,http://www.lizhinas.top:1009/udp/239.252.220.214:5140
+四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 四海钓鱼,http://125.90.228.174:12306/udp/239.77.1.137:5146
-天元围棋,http://171.213.131.63:8188/udp/239.93.42.55:5140
 天元围棋,http://58.46.179.245:4022/udp/239.76.253.2:9000
+天元围棋,http://171.213.131.63:8188/udp/239.93.42.55:5140
 睛彩青少,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1
 睛彩青少,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 睛彩青少,http://39.134.64.87:6610/PLTV/88888888/224/3221226508/index.m3u8?IASHttpSessionId=
@@ -955,8 +962,8 @@ CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
 CHC家庭影院,http://175.22.226.131:888/hls/108/index.m3u8
 CHC家庭影院,http://220.169.100.41:10087/udp/239.76.252.241:9000
+CHC家庭影院,http://171.213.131.63:8188/udp/239.93.42.6:5140
 CHC家庭影院,http://58.46.210.223:4022/udp/239.76.252.241:9000
-CHC家庭影院,http://58.46.210.223:4022/udp/239.76.245.241:1234
 CHC影迷电影,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HCGQ-HD/index.m3u8
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 CHC影迷电影,http://175.22.226.131:888/hls/107/index.m3u8
@@ -965,14 +972,12 @@ CHC影迷电影,http://171.213.131.63:8188/udp/239.93.42.5:5140
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://113.64.146.99:9901/hls/9/index.m3u8
 CHC高清电影,http://ik6.iptv8.net:8888/udp/225.1.4.207:1260
-IPTV经典电影,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=iptvjddy&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 都市剧场,http://dassby.qqff.top:99/live/都市剧场/index.m3u8
 都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
 都市剧场,http://175.22.226.131:888/hls/113/index.m3u8
 都市剧场,http://171.213.131.63:8188/udp/239.93.42.30:5140
-都市剧场,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8?zzhongqd
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 黑莓电影,http://140.245.86.67:50001/1000000004000019624/ystenlive/index.m3u8
@@ -993,8 +998,8 @@ IPTV经典电影,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=iptvjddy&apiKey=73c963
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森电影,http://113.64.146.99:9901/hls/17/index.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 中国功夫,http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 中国功夫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
@@ -1003,8 +1008,8 @@ IPTV经典电影,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=iptvjddy&apiKey=73c963
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 中国功夫,http://111.43.126.240:9003/hls/96/index.m3u8
 中国功夫,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-光影,http://www.lizhinas.top:1009/udp/239.252.220.200:5140
 光影,http://111.196.129.187:20000/udp/239.3.1.84:4120
+光影,http://www.lizhinas.top:1009/udp/239.252.220.200:5140
 军旅剧场,http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 军旅剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 军旅剧场,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
@@ -1154,4 +1159,4 @@ NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 东京热巖崎,https://fc.maa1804.com/g/jobtusdlca/jobtusdlca.m3u8
 
 🕘️更新时间,#genre#
-2025-06-21 06:18:11,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
+2025-06-21 18:18:14,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
