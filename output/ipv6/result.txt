@@ -240,12 +240,11 @@ CCTV4K,https://hls-gateway.vpstv.net/streams/708821.m3u8
 央视台球,http://175.22.226.131:888/hls/86/index.m3u8
 央视台球,http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
 央视台球,http://113.101.119.50:808/hls/531/index.m3u8
-央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
 央视台球,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_303
+央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 高尔夫网球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 高尔夫网球,http://175.22.226.131:888/hls/97/index.m3u8
 高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
-高尔夫网球,http://[2409:8087:74d4:21::36]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
 高尔夫网球,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_300
 高尔夫网球,https://epg.pw/stream/b7bea242512cacd749fdc6300350d422f59ac8d08bc703b55169535d01668344.m3u8
 高尔夫网球,http://[2409:8087:74d4:21::36]/270000001128/9900000094/1.m3u8
@@ -266,7 +265,6 @@ CCTV4K,https://hls-gateway.vpstv.net/streams/708821.m3u8
 老故事,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 老故事,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 老故事,http://goo.bkpcp.top/mg/lgs
-老故事,http://php.jdshipin.com:8880/TVOD/iptv.php
 女性时尚,http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
 女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 女性时尚,http://183.11.239.36:808/hls/12/index.m3u8
@@ -299,7 +297,6 @@ CCTV4K,https://hls-gateway.vpstv.net/streams/708821.m3u8
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://goo.bkpcp.top/mg/lgs
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php
 中国天气,http://[2409:8087:5e01:24::23]:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057&IASHttpSessionId=
 CETV1,http://121.19.134.246:808/hls/62/index.m3u8
 CETV1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
@@ -732,7 +729,6 @@ CGTN记录,https://0472.org/hls/cgtnd.m3u8
 安多卫视,https://stream1.freetv.fun/52d0df257c5c3cec42f2ae19268dbbc261256ff391b27bd83553bea941d0c186.m3u8
 农林卫视,http://112.46.105.20:8009/hls/27/index.m3u8
 农林卫视,http://112.46.85.60:8009/hls/27/index.m3u8
-农林卫视,http://[2409:8087:74d4:21::36]/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace
 农林卫视,http://[2409:8087:74d4:21::36]/270000001128/9900000060/1.m3u8
 农林卫视,http://tvbox6.com/tv/bfgd.php?id=122
 农林卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8
@@ -804,7 +800,7 @@ CGTN记录,https://0472.org/hls/cgtnd.m3u8
 JJ斗地主,https://live.iill.top/huya/14079954
 JJ斗地主,http://live.iill.top/douyu.php?id=488743
 JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954
-JJ斗地主,https://live.iill.top/douyin/685317364746
+JJ斗地主,https://live.iill.top/douyin/jjworld
 
 🏀咪咕频道,#genre#
 赛事咪咕1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -1031,7 +1027,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,http://www.terrykang.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 劲爆体育,http://z.b.bkpcp.top/m.php
-劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8#rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
@@ -1082,7 +1077,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 精品体育,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+精品体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
 魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 魅力足球,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
 魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
@@ -1186,7 +1181,6 @@ CHC高清电影,http://113.64.146.99:9901/hls/9/index.m3u8
 东北热剧,http://111.43.126.240:9003/hls/78/index.m3u8
 东北热剧,http://[2409:8087:74d4:21::36]/270000001128/9900000092/1.m3u8
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-5.ctv
-东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森电影,http://113.64.146.99:9901/hls/17/index.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
@@ -1228,7 +1222,7 @@ CHC高清电影,http://113.64.146.99:9901/hls/9/index.m3u8
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
 天映经典,https://cdn9.163189.xyz/smt1.1.php
-天映经典,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
+天映经典,https://stream1.freetv.fun/tian-ying-jing-dian-3.m3u8
 家庭剧场,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 家庭剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 家庭剧场,http://39.135.32.24:6610/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -1245,7 +1239,6 @@ CHC高清电影,http://113.64.146.99:9901/hls/9/index.m3u8
 惊悚悬疑,http://[2409:8087:74d4:21::36]/270000001128/9900000113/1.m3u8
 无线星河,http://php.jdshipin.com/smt.php
 无线星河,http://php.jdshipin.com/PLTV/iptv.php
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 星空卫视,http://211.67.191.23/hls/startv/index.m3u8
 星空卫视,http://113.64.147.57:8081/hls/87/index.m3u8
 星空卫视,http://113.64.147.36:8081/hls/87/index.m3u8
@@ -1268,7 +1261,7 @@ CHC高清电影,http://113.64.146.99:9901/hls/9/index.m3u8
 精品大剧,http://[2409:8087:74d4:21::36]/270000001128/9900000100/1.m3u8
 纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-3.ctv
 纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-2.m3u8
-纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
+纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-3.m3u8
 经典电影,http://113.64.146.99:9901/hls/40/index.m3u8
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
@@ -1287,7 +1280,6 @@ CHC高清电影,http://113.64.146.99:9901/hls/9/index.m3u8
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,http://smt.iktv.ddns-ip.net/Smart.php
-美亚电影,https://stream1.freetv.fun/mei-ya-dian-ying-1.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://stream1.freetv.fun/amcdian-ying-1.m3u8
 超级电影,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -1297,7 +1289,6 @@ AMC电影,https://stream1.freetv.fun/amcdian-ying-1.m3u8
 超级电影,http://111.43.126.240:9003/hls/85/index.m3u8
 超级电影,http://[2409:8087:74d4:21::36]/270000001128/9900000021/1.m3u8
 超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
 
 📺NewTV频道,#genre#
 NewTV超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -1356,7 +1347,6 @@ NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 欢笑剧场,http://[2409:8087:74d4:21::36]/270000001128/9900000091/1.m3u8
 欢笑剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 欢笑剧场,http://z.b.bkpcp.top/m.php
-欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
 法治天地,http://dassby.qqff.top:99/live/法治天地/index.m3u8
 法治天地,http://175.22.226.131:888/hls/110/index.m3u8
 法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
@@ -1416,4 +1406,4 @@ NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 东京热巖崎,https://fc.maa1804.com/g/jobtusdlca/jobtusdlca.m3u8
 
 🕘️更新时间,#genre#
-2025-06-26 18:28:18,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
+2025-06-27 06:20:12,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
