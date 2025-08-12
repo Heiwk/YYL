@@ -212,10 +212,10 @@ CCTV4K,http://qjrhc.jydjd.top:2911/udp/225.1.101.109:7523
 风云剧场,http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
 风云剧场,http://113.101.119.50:808/hls/534/index.m3u8
 风云剧场,http://117.8.141.207:8834/udp/225.1.2.174:5002
-风云剧场,http://171.35.84.11:8688/udp/239.252.219.89:5140
 风云剧场,http://baota.guangyuan.site:8188/udp/239.253.43.16:5146
-风云剧场,http://219.141.44.171:8188/udp/238.255.2.28:5999
 风云剧场,http://baota.guangyuan.site:8188/udp/239.253.43.26:5146
+风云剧场,http://171.35.84.11:8688/udp/239.252.219.89:5140
+风云剧场,http://219.141.44.171:8188/udp/238.255.2.28:5999
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 风云音乐,http://175.22.226.131:888/hls/87/index.m3u8
 风云音乐,http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
@@ -230,8 +230,8 @@ CCTV4K,http://qjrhc.jydjd.top:2911/udp/225.1.101.109:7523
 风云足球,http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
 风云足球,http://113.101.119.50:808/hls/530/index.m3u8
 风云足球,http://117.8.141.207:8834/udp/225.1.2.168:5002
+风云足球,http://baota.guangyuan.site:8188/udp/239.253.43.14:5146
 风云足球,http://baota.guangyuan.site:8188/udp/239.253.43.20:5146
-风云足球,http://219.141.44.171:8188/udp/238.255.2.29:5999
 央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
@@ -240,11 +240,12 @@ CCTV4K,http://qjrhc.jydjd.top:2911/udp/225.1.101.109:7523
 央视台球,http://175.22.226.131:888/hls/86/index.m3u8
 央视台球,http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
 央视台球,http://113.101.119.50:808/hls/531/index.m3u8
+央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
 央视台球,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-央视台球,http://117.8.141.207:8834/udp/225.1.2.170:5002
 高尔夫网球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 高尔夫网球,http://175.22.226.131:888/hls/97/index.m3u8
 高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+高尔夫网球,http://[2409:8087:74d4:21::36]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
 高尔夫网球,http://117.8.141.207:8834/udp/225.1.2.169:5002
 高尔夫网球,http://baota.guangyuan.site:8188/udp/239.253.43.12:5146
 高尔夫网球,http://219.141.44.171:8188/udp/238.255.2.223:5999
@@ -697,6 +698,7 @@ CGTN英语,http://175.22.226.131:888/hls/101/index.m3u8
 安多卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
 农林卫视,http://112.46.105.20:8009/hls/27/index.m3u8
 农林卫视,http://112.46.85.60:8009/hls/27/index.m3u8
+农林卫视,http://[2409:8087:74d4:21::36]/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
 三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
 三沙卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -875,9 +877,11 @@ JJ斗地主,http://111.20.21.163/live/488743rAHScWyyII_2000.flv?302_type=cold_ag
 广东体育,http://113.64.146.99:9901/hls/39/index.m3u8
 广东体育,http://113.101.119.50:8090/hls/108/index.m3u8
 纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8#rtmp://f13h.mine.nu:1935/sat/tv721
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 超级体育,http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://39.134.64.179:6610/PLTV/88888888/224/3221225715/index.m3u8?IASHttpSessionId=OTT3134320250320172558060494
@@ -917,10 +921,10 @@ JJ斗地主,http://111.20.21.163/live/488743rAHScWyyII_2000.flv?302_type=cold_ag
 精品体育,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 魅力足球,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
 四海钓鱼,https://wyzy.online:55734/allinone/migu/895358641.m3u8
-体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002
 天元围棋,http://219.141.44.171:8188/udp/238.255.2.7:5999
 天元围棋,http://171.213.170.254:8188/udp/239.93.42.55:5140
 睛彩青少,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1
@@ -965,11 +969,9 @@ CHC影迷电影,http://171.213.170.254:8188/udp/239.93.42.5:5140
 CHC电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://113.64.146.99:9901/hls/9/index.m3u8
-IPTV经典电影,http://139.129.231.228:50060/rtp/239.21.1.124:5002
-邵氏影院,http://3501776.xyz:35455/douyu/4246519
 邵氏影院,http://iptv.jxpan.vip:18888/aio/douyu/4246519
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://jiaojirentv.top/2020/dy.php?id=4246519
+邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 都市剧场,http://dassby.qqff.top:99/live/都市剧场/index.m3u8
 都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
@@ -1000,8 +1002,9 @@ IPTV经典电影,http://139.129.231.228:50060/rtp/239.21.1.124:5002
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森电影,http://113.64.146.99:9901/hls/17/index.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 中国功夫,http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 中国功夫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
@@ -1018,7 +1021,6 @@ IPTV经典电影,http://139.129.231.228:50060/rtp/239.21.1.124:5002
 军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 军旅剧场,http://111.43.126.240:9003/hls/82/index.m3u8
 军旅剧场,http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-军旅剧场,http://171.35.84.11:8688/udp/239.252.220.76:5140
 天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 家庭剧场,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
@@ -1130,8 +1132,8 @@ NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 游戏风云,http://117.8.141.207:8834/udp/225.1.1.135:5002
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 生活时尚,http://175.22.226.131:888/hls/112/index.m3u8
-生活时尚,http://116.233.38.0:8888/udp/239.45.3.132:5140
 生活时尚,http://117.8.141.207:8834/udp/225.1.1.143:5002
+生活时尚,http://116.233.38.0:8888/udp/239.45.3.132:5140
 生活时尚,http://171.213.170.254:8188/udp/239.93.42.29:5140
 金色学堂,http://117.8.141.207:8834/udp/225.1.1.236:5002
 
@@ -1178,4 +1180,4 @@ NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 东京热巖崎,https://fc.maa1804.com/g/jobtusdlca/jobtusdlca.m3u8
 
 🕘️更新时间,#genre#
-2025-08-12 06:20:38,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
+2025-08-12 18:23:16,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
