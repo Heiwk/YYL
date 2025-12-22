@@ -498,6 +498,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 农林卫视,https://migu.188766.xyz/?migutoken=a1d96a61f63feb278e36f2d6659d4994&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 农林卫视,https://migu.188766.xyz/?migutoken=fe2f555e0bb41da80d672fec0a580f8d&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 农林卫视,https://migu.188766.xyz/?migutoken=bd4227c70527283843f0526bb2573cd2&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+农林卫视,https://migu.188766.xyz/?migutoken=c7ddca0808b138cca4ce4b60e358ccbf&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 三沙卫视,https://migu.188766.xyz/?migutoken=0f74d62b9ac70c2429e45301e3ba5d7c&id=hn_ssws&type=sz
 三沙卫视,https://stream1.freetv.fun/2476872184d56573ae915237d8e3c990ded214446351f568b57889cbf63da2e8.m3u8
 三沙卫视,https://stream1.freetv.fun/8bd6b69c423ac31e71c2311ad33f4f291e1314c69005ffb7b3b7defc2944adb2.m3u8
@@ -780,6 +781,7 @@ TVB娱乐新闻台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w1003.m
 大爱2,https://live.catvod.com/live.php?id=daai2_twn&token=e287c7b29d17845a458847cb00acd58811c70594bfafb94afd20d1be9ba254c1%3A1766107501%3AMTI4LjI0LjE2MS4xNzY%3D
 大爱2,https://live.catvod.com/live.php?id=daai2_twn&token=2be2260e03c0293b426dc07d13e9e9a7b651ed2c4f58aec5e3484693e0b0eb98%3A1766193519%3ANjguMTU0LjExNy4zNQ%3D%3D
 大爱2,https://live.catvod.com/live.php?id=daai2_twn&token=ceef6b2a3af2e91771175f72dce1d16009a66610c9bf561233b9bee3ccfb0ba0%3A1766280998%3AMjAuNTEuMjA2Ljgx
+大爱2,https://live.catvod.com/live.php?id=daai2_twn&token=3417454a19c905118b82b111c1be728e7e1fcca4a0ee504132c8814910e19362%3A1766366878%3ANjguMjIwLjYyLjI0Ng%3D%3D
 中視,https://stream1.freetv.fun/zhong-shi-7.m3u8
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
@@ -870,6 +872,7 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=58c0cccdd1b87e2d58f31a63e48a0
 CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
 CHC影迷电影,https://migu.188766.xyz/?migutoken=c79e633e21d2672817818d9cf55e5c8d&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 CHC影迷电影,https://migu.188766.xyz/?migutoken=c6908fab1a8634da6704c2e643c82239&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+CHC影迷电影,https://migu.188766.xyz/?migutoken=81471833597eec10cdf6fade17a9896d&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
 都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
@@ -1285,4 +1288,4 @@ iHOT爱电竞,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=600000000600
 军旅剧场,http://[2409:8087:74d4:21::36]/270000001128/9900000107/1.m3u8
 
 🕘️更新时间,#genre#
-2025-12-22 06:28:14,https://hls-gateway.vpstv.net/streams/708858.m3u8
+2025-12-22 18:30:19,https://hls-gateway.vpstv.net/streams/708858.m3u8
