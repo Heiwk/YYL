@@ -469,6 +469,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 西藏卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010123/1.m3u8
 西藏卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 西藏卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND
+西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
 兵团卫视,https://migu.188766.xyz/?migutoken=62785ee34312d1c498badbbb8ec87f41&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
 兵团卫视,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_338?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOkFZQ8vFqvaXagPMKOIyv%2BXeGSUAYu%2BetiKsROWrE6MQEGUl%2FDgtESPztAYCWSTXHVNIx7vCgKOlQWcTR0odiuZ%2F%2BQ8sj6xyqT0TneYeAqINrWQyWMMDFKrOWyAYQLI0SKN6oaHHzJ0Sm8SBx8WX5F2hVVoLP14DPPg79LMs8FXbip%2BNbpb%2FtS3EG9HyTE5Qh&clientIp=%3A%3Affff%3A31.6.56.132
 兵团卫视,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
@@ -500,6 +501,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 农林卫视,https://migu.188766.xyz/?migutoken=bd4227c70527283843f0526bb2573cd2&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 农林卫视,https://migu.188766.xyz/?migutoken=c7ddca0808b138cca4ce4b60e358ccbf&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 农林卫视,https://migu.188766.xyz/?migutoken=c7093923c22aec7ea5adbdf976654e52&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+农林卫视,https://migu.188766.xyz/?migutoken=1d533d02962f62316052245a89ee7e98&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 三沙卫视,https://migu.188766.xyz/?migutoken=0f74d62b9ac70c2429e45301e3ba5d7c&id=hn_ssws&type=sz
 三沙卫视,https://stream1.freetv.fun/2476872184d56573ae915237d8e3c990ded214446351f568b57889cbf63da2e8.m3u8
 三沙卫视,https://stream1.freetv.fun/8bd6b69c423ac31e71c2311ad33f4f291e1314c69005ffb7b3b7defc2944adb2.m3u8
@@ -808,6 +810,7 @@ TVB娱乐新闻台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w1003.m
 中天新闻,https://hls-gateway.vpstv.net/streams/477695.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
+中天新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
 TVBS新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 TVBS新闻,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
 
@@ -843,6 +846,7 @@ TVBS新闻,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
 寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-4.m3u8
 寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-5.m3u8
 寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-3.ctv
+寰宇新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn14
 
 📺影视频道,#genre#
 CHC动作电影,https://migu.188766.xyz/?migutoken=f6e8a8382b34447f496fb40bd858f2ff&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
@@ -1047,6 +1051,7 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=352f039e7ecba799a8914232745eb
 美亚电影,https://stream1.freetv.fun/mei-ya-dian-ying-1.m3u8
 美亚电影,https://stream1.freetv.fun/mei-ya-dian-ying-5.ctv
 美亚电影,https://stream1.freetv.fun/mei-ya-dian-ying-1.ctv
+美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 AMC电影,https://stream1.freetv.fun/amcdian-ying-1.m3u8
 超级电影,http://[2409:8087:74d4:21::36]/270000001128/9900000021/1.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -1290,4 +1295,4 @@ iHOT爱电竞,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=600000000600
 军旅剧场,http://[2409:8087:74d4:21::36]/270000001128/9900000107/1.m3u8
 
 🕘️更新时间,#genre#
-2025-12-24 06:25:58,https://hls-gateway.vpstv.net/streams/708858.m3u8
+2025-12-24 18:28:11,https://hls-gateway.vpstv.net/streams/708858.m3u8
