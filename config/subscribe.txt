@@ -9,7 +9,12 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://www.mpimg.cn/down.php/f9c94088c3916dd46978c3e4c8b741f8.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-# 私人节目单
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://github.com/alenin-zhang/IPTV/raw/main/lenin.txt
 https://github.com/alenin-zhang/IPTV/raw/main/lenin.txt
 https://github.com/250992941/iptv/raw/main/st1.txt
@@ -18,12 +23,7 @@ https://github.com/250992941/iptv/raw/main/收集源.txt
 https://ghfast.top/https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt
 https://github.com/zht298/yingshi/raw/74980757585d89547240481350240284f06d6d8d/output/user_result.txt
 https://raw.githubusercontent.com/chuzjie/wuihui/main/小米/DSJ240101.txt
-# 七星itv
 https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
-
-
-
-
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
