@@ -2478,4 +2478,4 @@ CCTV-15,https://hls-gateway.vpstv.net/streams/476901.m3u8
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 
 🕘️更新时间,#genre#
-2026-01-14 18:49:34,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-01-15 06:42:47,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
