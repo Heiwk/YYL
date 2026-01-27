@@ -323,6 +323,7 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 厦门卫视,http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
 厦门卫视,http://[2409:8087:74d4:21::36]/270000001128/9900000058/1.m3u8
 厦门卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
+厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 康巴卫视,http://[2409:8087:74d4:21::36]/270000001128/9900000066/1.m3u8
 康巴卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266002/1.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
@@ -540,4 +541,4 @@ NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 🎵音乐频道,#genre#
 
 🕘️更新时间,#genre#
-2026-01-27 18:27:01,https://epg.pw/stream/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8
+2026-01-28 06:23:12,https://epg.pw/stream/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8
