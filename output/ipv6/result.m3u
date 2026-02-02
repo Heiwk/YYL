@@ -489,6 +489,10 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000009263/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000010584/1.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="📡卫视频道",东南卫视
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="📡卫视频道",东南卫视
+http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_320?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOnPQIUn7V5iLm%2BcX9eE9%2FjlwMfjz9Ya59VM%2FuJ12C%2BJ782rcbtyhH7yHAD0vCj%2F%2FZbznu3L1tdnVZuZuIZGw4KmnVI6OUgSvH%2BrXNQbRi42Pq7F6s%2BHuamBUvZBv7I5LFy3A9DpPCNcMPuVUC6C4LspEMKdUthuMYb3CjRZaJIwlU3MTMzLVhnRTR8iDyWZnB&clientIp=%3A%3Affff%3A31.6.56.132
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="📡卫视频道",东南卫视
+http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_328?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOGdpSjm0uOgMDQ5y4JXlCLoD1n9%2BRdXhNeujC9AGZ%2Fx7LAg7h95lf6Pz%2Bf%2BtwrXcoSLOqz4Vw5lTrjzOsynXEmhx8%2B7YZNsQVMpk5vaoaBZ2qjpt%2BIed8o96zhYnTQIDjBck37uTpYd3d%2F0%2BLqUFTPI0mfyYMy6gfQ%2Feshh0dpiMSeXqpvTvj50fhIxsY8zgz&clientIp=%3A%3Affff%3A31.6.56.132
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
@@ -1031,5 +1035,5 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 http://[2409:8087:5e08:24::5]:6610/000000001000/5000000011000031114/1.m3u8?Contentid=5000000011000031114&livemode=1&stbId=3&channel-id=bestzb
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="金色学堂.png" group-title="📺SiTV频道",金色学堂
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-02 06:27:31
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-02 18:43:23
 https://epg.pw/stream/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8
