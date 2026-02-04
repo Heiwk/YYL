@@ -411,6 +411,7 @@ CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-5.ctv
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
+东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-4.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
@@ -541,4 +542,4 @@ NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 🎵音乐频道,#genre#
 
 🕘️更新时间,#genre#
-2026-02-04 06:40:39,https://epg.pw/stream/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8
+2026-02-04 18:39:14,https://epg.pw/stream/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8
