@@ -291,6 +291,7 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000013359/1.m3u8
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040015/1.m3u8
+青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
 内蒙古卫视,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_332?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOCZAHEHifVxVMgj8kVZCKxg7UORURKB3X7fcadMohCIJ1yM4ebPwXIDeo9ROjI5xZWDGwz0QENF2fCK%2B0WLn3ue3iY8CQ1RDWMkt2C6gqOQgSnrFSVfFhnfAf7ChumTdEJ2iFrh7pIRNn6eSH2cG9r1Faq1rriu99AmZyvyCTFwfQ9tRGQpCrhs4vmgRex%2BYs&clientIp=%3A%3Affff%3A31.6.56.132
 内蒙古卫视,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 内蒙古卫视,http://[2409:8087:74d4:21::36]/270000001128/9900000044/1.m3u8
@@ -542,4 +543,4 @@ NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 🎵音乐频道,#genre#
 
 🕘️更新时间,#genre#
-2026-02-10 19:00:00,https://epg.pw/stream/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8
+2026-02-11 06:43:03,https://epg.pw/stream/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8

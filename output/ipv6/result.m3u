@@ -575,6 +575,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000013359/1.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="📡卫视频道",青海卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040015/1.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="📡卫视频道",青海卫视
+http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_332?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOCZAHEHifVxVMgj8kVZCKxg7UORURKB3X7fcadMohCIJ1yM4ebPwXIDeo9ROjI5xZWDGwz0QENF2fCK%2B0WLn3ue3iY8CQ1RDWMkt2C6gqOQgSnrFSVfFhnfAf7ChumTdEJ2iFrh7pIRNn6eSH2cG9r1Faq1rriu99AmZyvyCTFwfQ9tRGQpCrhs4vmgRex%2BYs&clientIp=%3A%3Affff%3A31.6.56.132
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
@@ -1033,5 +1035,5 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 http://[2409:8087:5e08:24::5]:6610/000000001000/5000000011000031114/1.m3u8?Contentid=5000000011000031114&livemode=1&stbId=3&channel-id=bestzb
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="金色学堂.png" group-title="📺SiTV频道",金色学堂
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-10 19:00:00
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-11 06:43:03
 https://epg.pw/stream/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8
