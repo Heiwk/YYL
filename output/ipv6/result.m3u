@@ -859,6 +859,8 @@ http://php.jdshipin.com/smt.php?id=Xinhe
 https://cdn6.101.qzz.io/163189/tvbxh
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="📺影视频道",星空卫视
 https://stream1.freetv.fun/xing-kong-wei-shi-14.m3u8
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="武侠剧场.png" group-title="📺影视频道",武侠剧场
+https://goodiptv.club/douyu/9285904
 #EXTINF:-1 tvg-name="海外剧场" tvg-logo="海外剧场.png" group-title="📺影视频道",海外剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-name="海外剧场" tvg-logo="海外剧场.png" group-title="📺影视频道",海外剧场
@@ -1035,5 +1037,5 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 http://[2409:8087:5e08:24::5]:6610/000000001000/5000000011000031114/1.m3u8?Contentid=5000000011000031114&livemode=1&stbId=3&channel-id=bestzb
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="金色学堂.png" group-title="📺SiTV频道",金色学堂
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-13 18:41:27
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-14 06:35:49
 https://epg.pw/stream/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8
